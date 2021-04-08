@@ -1,4 +1,4 @@
-# MECH-458-Object-Sorting-System-With-at90usb1287-icrocontroller 
+# MECH-458-Object-Sorting-System-With-at90usb1287-Microcontroller 
 
 # <h2> Project Description: 
  The purpose of this project is to implement an object sorting system. The
