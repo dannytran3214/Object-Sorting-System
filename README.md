@@ -12,4 +12,4 @@ tray
 * Design and implement an object sorting system
 * The system should be able to identify four different type of objects.
 * The object should be sorted on the correct segment of the sorting tray. 
-* Come up with test plan to account for covid. 
+* Come up with a remote test plan to account for covid. 
