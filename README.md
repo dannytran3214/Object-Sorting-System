@@ -13,3 +13,7 @@ tray
 * The system should be able to identify four different type of objects.
 * The object should be sorted on the correct segment of the sorting tray. 
 * Come up with a remote test plan to account for covid. 
+
+ 
+ ![alt text](https://github.com/dannytran3214/Object-Sorting-System/blob/main/feedbackloop.png)
+ ![alt text](https://github.com/dannytran3214/Object-Sorting-System/blob/main/circuit_diagram.png)
